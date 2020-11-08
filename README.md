@@ -1,6 +1,6 @@
 # **Projeto Final do Curso Intensivo de Ciência de Dados.**
 
-[![Linkedin Badge](https://img.shields.io/badge/-João-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoguilhermedarossbrandao/)](https://www.linkedin.com/in/joaoguilhermedarossbrandao/) 
+[![Linkedin Badge](https://img.shields.io/badge/-João_Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoguilhermedarossbrandao/)](https://www.linkedin.com/in/joaoguilhermedarossbrandao/) 
 [![Gmail Badge](https://img.shields.io/badge/-jguilhermebrandao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jguilhermebrandao@gmail.com)](mailto:jguilhermebrandao@gmail.com)
 
     
