@@ -39,3 +39,5 @@ Iremos analisar se o título do cargo, localização da sede, tamanho da empresa
 <br/>
 
 *   **Modelagem:** Agora que nossos dados estão prontos, vamos verificar o desempenho em dois algoritmos de regressão. Primeiro, vamos separar em dados de treino e teste. Segundo, criamos o modelo e análisamos e rodamos. Por último, os modelos precisam ser avaliados com base em um determinado conjunto de métricas de avaliação que precisam ser definidas. Para algoritmos de regressão, algumas das métricas comuns são - MSE e R Square.
+
+---
